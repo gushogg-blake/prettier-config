@@ -1,0 +1,10 @@
+{
+	"name": "@gushogg-blake/eslint-config",
+	"description": "ESLint config",
+	"author": {
+		"name": "Gus Hogg-Blake",
+		"email": "gus@gushogg-blake.com"
+	},
+	"version": "1.0.0",
+	"main": "./index.js"
+}
