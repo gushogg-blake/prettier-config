@@ -1,4 +1,4 @@
-ESLint config
+Prettier config
 ===
 
 This config enforces some suggestions for a simple way to approach code formatting, particularly when, how, and how much to indent.
